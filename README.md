@@ -7,7 +7,7 @@ Computational prediction of host microbes that can produce indolic compounds in 
 ## Project Layout
 ### Directory Tree
 
-\`\`\`
+```
 INDOLE_PREDICTION_CRC_WORKFLOW/
 ├─ analysis/            
 │  ├─ _site.yml
@@ -41,7 +41,7 @@ INDOLE_PREDICTION_CRC_WORKFLOW/
 ├─ _workflowr.yml
 ├─ Indole_Prediction_CRC_Workflow.Rproj
 └─ README.md
-\`\`\`
+```
 
 ---
 
